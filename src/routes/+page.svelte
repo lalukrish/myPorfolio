@@ -1,0 +1,1 @@
+<h1 class="text-green-400">welcome to js</h1>
